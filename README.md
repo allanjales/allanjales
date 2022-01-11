@@ -1,6 +1,8 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="256px">
-
 # Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">👋
+
+<div align="center">Welcome to my github page 👽</div>
+
+<br>
 
 <!-- Languages -->
 <div align="center">
@@ -19,6 +21,7 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery">
+	<img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran">
 	<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="SublimeText">
 </div>
 
@@ -35,6 +38,7 @@
 <br>
 
 <p align="center">
+	<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="215px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjales&layout=compact&langs_count=999&theme=radical" alt="Langs"/>
 </p>
 
