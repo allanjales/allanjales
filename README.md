@@ -6,7 +6,6 @@
 
 <!-- Languages -->
 <div align="center">
-	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 	<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python">
 	<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
@@ -45,6 +44,8 @@
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api/?username=allanjales&show_icons=true&title_color=00ff00&icon_color=00ff00&text_color=00AA55&bg_color=141321"/>
 </p>
+
+<div align="center">Also checkout my <a href="https://allanjales.github.io/">allanjales.github.io</a></div>
 
 <!--
 **allanjales/allanjales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
